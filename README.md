@@ -8,4 +8,4 @@ This is just a test repo
 To be part of this projet you must be cool
 
 # Dependencies
-You must to know Daniele Scinnadrone
+You must to know Daniele Sciannandrone
