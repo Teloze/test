@@ -1,9 +1,8 @@
-# Test
+# Introduction
+This is a better version of the readme
 
-# Another
+# Purpose
+This is just a test repo
 
-## Sub-one
-
-### Sub-Sub
-
-## Another sub
+# Prerequisites
+To be part of this projet you must be cool
